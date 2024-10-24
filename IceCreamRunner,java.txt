@@ -1,0 +1,34 @@
+class IceCreamRunner{
+
+public static void main(String args[]){
+ IceCream ice=new IceCream();
+ 
+ ice.id=2105000L;
+ ice.quantity=50;
+ ice.brand="Baskin robbins";
+ ice.flavors="cookies ";
+ ice.type="Kulfi";
+ 
+ System.out.println(ice.id);
+ System.out.println(ice.quantity);
+ System.out.println(ice.brand);
+ System.out.println(ice.flavors);
+ System.out.println(ice.type);
+ 
+ IceCream cream=new IceCream();
+ 
+ cream.id=19197704L;
+ cream.quantity=35;
+ cream.brand="Havmor";
+ cream.flavors="butter pecan";
+ cream.type="rolled";
+ 
+ System.out.println(cream.id);
+ System.out.println(cream.quantity);
+ System.out.println(cream.brand);
+ System.out.println(cream.flavors);
+ System.out.println(cream.type);
+ 
+ }
+
+}
