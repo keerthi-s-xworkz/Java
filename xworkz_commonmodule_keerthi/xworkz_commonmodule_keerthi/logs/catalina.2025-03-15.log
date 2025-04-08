@@ -1,0 +1,45 @@
+15-Mar-2025 14:27:48.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.38
+15-Mar-2025 14:27:48.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 08:20:30 UTC
+15-Mar-2025 14:27:48.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.38.0
+15-Mar-2025 14:27:48.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Mar-2025 14:27:48.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Mar-2025 14:27:48.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Mar-2025 14:27:48.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_261\jre
+15-Mar-2025 14:27:48.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_261-b12
+15-Mar-2025 14:27:48.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+15-Mar-2025 14:27:48.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\sujat\.SmartTomcat\xworkz_commonmodule_keerthi\xworkz_commonmodule_keerthi
+15-Mar-2025 14:27:48.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\sujat\Downloads\apache-tomcat-9.0.38-windows-x64\apache-tomcat-9.0.38
+15-Mar-2025 14:27:48.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\sujat\Downloads\apache-tomcat-9.0.38-windows-x64\apache-tomcat-9.0.38
+15-Mar-2025 14:27:48.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\sujat\.SmartTomcat\xworkz_commonmodule_keerthi\xworkz_commonmodule_keerthi
+15-Mar-2025 14:27:48.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\sujat\.SmartTomcat\xworkz_commonmodule_keerthi\xworkz_commonmodule_keerthi\temp
+15-Mar-2025 14:27:48.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\sujat\.SmartTomcat\xworkz_commonmodule_keerthi\xworkz_commonmodule_keerthi\conf\logging.properties
+15-Mar-2025 14:27:48.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Mar-2025 14:27:48.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\sujat\Downloads\ideaIC-2024.1.4.win\lib\idea_rt.jar=61767:C:\Users\sujat\Downloads\ideaIC-2024.1.4.win\bin
+15-Mar-2025 14:27:48.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Mar-2025 14:27:48.641 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+15-Mar-2025 14:27:48.642 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+15-Mar-2025 14:27:48.642 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+15-Mar-2025 14:27:48.671 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+15-Mar-2025 14:27:49.362 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 14:27:49.574 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1331] milliseconds
+15-Mar-2025 14:27:49.630 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Mar-2025 14:27:49.630 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.38]
+15-Mar-2025 14:27:49.645 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\sujat\.SmartTomcat\xworkz_commonmodule_keerthi\xworkz_commonmodule_keerthi\conf\Catalina\localhost\xworkz_commonmodule_keerthi.xml]
+15-Mar-2025 14:27:54.330 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Mar-2025 14:27:54.583 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'dispatcher'
+15-Mar-2025 14:27:56.375 INFO [main] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [name: proj]
+15-Mar-2025 14:27:56.961 INFO [main] org.hibernate.Version.logVersion HHH000412: Hibernate ORM core version 5.6.15.Final
+15-Mar-2025 14:27:58.164 INFO [main] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+15-Mar-2025 14:27:59.021 WARN [main] org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15-Mar-2025 14:27:59.040 INFO [main] org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.buildCreator HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/project2]
+15-Mar-2025 14:27:59.040 INFO [main] org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.buildCreator HHH10001001: Connection properties: {user=root, password=****}
+15-Mar-2025 14:27:59.041 INFO [main] org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.buildCreator HHH10001003: Autocommit mode: false
+15-Mar-2025 14:27:59.057 INFO [main] org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.<init> HHH000115: Hibernate connection pool size: 20 (min=1)
+15-Mar-2025 14:28:00.280 INFO [main] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+15-Mar-2025 14:28:00.309 WARN [main] org.hibernate.dialect.H2Dialect.<init> HHH000431: Unable to determine H2 database version, certain features may not work
+15-Mar-2025 14:28:02.845 INFO [main] org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@f53db1a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+15-Mar-2025 14:28:02.987 INFO [main] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator.initiateService HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15-Mar-2025 14:28:03.732 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 9149 ms
+15-Mar-2025 14:28:03.750 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\sujat\.SmartTomcat\xworkz_commonmodule_keerthi\xworkz_commonmodule_keerthi\conf\Catalina\localhost\xworkz_commonmodule_keerthi.xml] has finished in [14,103] ms
+15-Mar-2025 14:28:03.753 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 14:28:03.763 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [14189] milliseconds
